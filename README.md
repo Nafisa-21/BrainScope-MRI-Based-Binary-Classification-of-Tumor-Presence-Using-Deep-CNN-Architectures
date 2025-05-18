@@ -1,0 +1,1 @@
+# BrainScope-MRI-Based-Binary-Classification-of-Tumor-Presence-Using-Deep-CNN-Architectures
