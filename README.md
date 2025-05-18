@@ -56,9 +56,9 @@ This project builds a complete end-to-end deep learning pipeline for classifying
 
 8. **Model Saving**  
    Final models saved:
-   - `2019-8-6_VGG_model.h5`
-   - `2019-8-6_inception_v3.h5`
-   - `2019-8-6_resnet50.h5`
+   - `VGG_model.h5`
+   - `inception_v3.h5`
+   - `resnet50.h5`
 
 ---
 
